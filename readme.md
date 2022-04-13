@@ -1,1 +1,1 @@
-This is a collection of projects done throughout my Computer Science Degree Coursework.
+This is a collection of Java projects done throughout my Computer Science Degree Coursework.
