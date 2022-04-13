@@ -1,0 +1,8 @@
+- Purpose: This class was modified for the GeneticAlgorithmExample.java class
+-          that was used for the Genetic Algorithm Assignment in CMSC 427
+-          course at UMGC.  The Tournament Selection method was adapted from
+-          The pseudocode in "Essential Metaheuristics" by Sean Luke, 2016,
+-          pg. 45.
+-          This Genetic algorithm estimates the omptimal water system size
+-          for a Diamondback Terrapin.  You have the choice of to selection
+-          types - Roulette style or Tournament sytle.
